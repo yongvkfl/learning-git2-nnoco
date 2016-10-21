@@ -29,4 +29,5 @@
 7. Git을 타고 개발부터 배포까지
   
 
-2016. 10. 22 [@토즈 신반포](http://onoffmix.com/event/80351)
+## History
+* 2016. 10. 22 [@토즈 신반포](http://onoffmix.com/event/80351)
